@@ -27,7 +27,7 @@ body {
     overflow: hidden;
 }
 
-.shape {
+/* .shape {
     position: absolute;
     border-radius: 50%;
     filter: blur(60px);
@@ -61,7 +61,7 @@ body {
     bottom: -100px;
     left: -100px;
     animation-delay: 10s;
-}
+} */
 
 @keyframes float {
     0%, 100% {
